@@ -1,0 +1,1 @@
+Aquasense is a Hydroponics or water quality monitoring system which constantly monitors water turbidy, temperature, humidity, ph value and in real time turns on pumps and water filter to uphold the quality of water.
